@@ -268,7 +268,7 @@ La pestaña de <em>Design</em> se abrirá por encima de la zona del <em>Console<
 
 ## #️⃣  Publicación
 
-¡No olvides poner un enlace o video de tu proyecto en Linkedin! Etiqueta a #Oracle y #AluraLatam 🏁
+¡No olvides poner un enlace o video de tu proyecto en Linkedin! Etiqueta a #AluraLatam 🏁
 
 💙 <strong>Alura Latam</strong></br>
 <a href="https://www.linkedin.com/company/alura-latam/mycompany/" target="_blank">
